@@ -17,8 +17,6 @@ AgriSense aims to improve agriculture, enhance community well-being, and boost f
 
 ## Features
 - **Crop Recommendation**: Get informed suggestions on which crops to plant based on soil and weather conditions.
-- **Fertilizer Recommendation**: Identify the best fertilizers to use for optimal crop growth.
-- **Disease Identification and Treatment**: Detect crop diseases and receive guidance on how to manage and cure them.
 - **Weather Data Integration**: Utilize real-time weather data to make better farming decisions.
 
 ## Technologies Used
@@ -41,7 +39,7 @@ AgriSense aims to improve agriculture, enhance community well-being, and boost f
    cd agrisense
 
 
-###Contributing
+### Contributing
 - We welcome contributions to AgriSense! If you would like to contribute, please follow these steps:
 - Fork the repository.
 - Create a new branch (git checkout -b feature-branch).
