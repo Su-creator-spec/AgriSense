@@ -22,9 +22,9 @@ AgriSense aims to improve agriculture, enhance community well-being, and boost f
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Flask, Python
-- **Machine Learning**: Scikit-learn, PyTorch
+- **Machine Learning**: Scikit-learn
 - **Data**: OpenWeather API, Custom ML Models
-- **Deployment**: Flask, Gunicorn
+- **Deployment**: Flask
 
 ## Setup and Installation
 ### Prerequisites
